@@ -574,6 +574,23 @@
     ],
     "timestamp": "Dec/21/2020 03:24"
   },
+  "CF99496669": {
+    "contest_id": 1283,
+    "language": "GNU C++17",
+    "path": "codeforces/1283/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Friends and Gifts",
+    "problem_url": "https://codeforces.com/contest/1283/problem/C",
+    "submission_id": "CF99496669",
+    "submission_url": "https://codeforces.com/contest/1283/submission/99496669",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Nov/24/2020 22:58"
+  },
   "CF99564979": {
     "contest_id": 1307,
     "language": "GNU C++17",
