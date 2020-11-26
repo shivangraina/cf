@@ -4,6 +4,8 @@
 using namespace std;
 ll Ceil(ll a, ll b) { return ((a / b) + (a % b != 0)); }
 #define MAXX 10000000000000
+vector<int> adj[200005];
+vector<bool> vis(200005,false);
 
 int main() {
   string s;
