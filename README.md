@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+47 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [GNU C++17](./codeforces/1469/B.cpp) | `greedy` | Dec/28/2020 21:22 | 
 46 | [C - Peaceful Rooks](https://codeforces.com/contest/1465/problem/C) | [GNU C++17](./codeforces/1465/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` | Dec/21/2020 03:24 | 
 45 | [C - Peaceful Rooks](https://codeforces.com/contest/1411/problem/C) | [GNU C++17](./codeforces/1411/C.cpp) | `dfs and similar` `dsu` `graphs` | Dec/21/2020 03:04 | 
 44 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [GNU C++17](./codeforces/1465/B.cpp) | `brute force` `math` `number theory` | Dec/20/2020 21:12 | 
